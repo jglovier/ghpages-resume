@@ -14,3 +14,10 @@
   duration: 3/2022 &mdash; 6/2022
   # url: "#"
   description: Created a Machine Learning Project to classify house prices in King County using Python.
+
+# Data Science
+- project: Water Quality Project
+#  role: Github Repository
+  duration: 3/2022 &mdash; 6/2022
+  # url: "#"
+  description: Used the data science methodology to investigate water quality in wells in Bangladesh using R. 
