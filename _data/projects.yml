@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Resume Website
-- project: Resume Website
-  role: Github Repository
-  duration: 2021
-  # url: "#"
-  description: Used Github to create a resume website using HTML and CSS. 
-
 # Database Application
 - project: Database Application
 #  role: Founder & Primary Developer
   duration: 1/2022 &mdash; 3/2022
   # url: "#"
   description: Created a movie database application using SQL hosted off of my university's server. Deployed the web app using HTML, CSS, PHP.
+
+# Machine Learning
+- project: Machine Learning Project
+#  role: Github Repository
+  duration: 3/2022 &mdash; 6/2022
+  # url: "#"
+  description: Created a Machine Learning Project to classify house prices in King County using Python.
