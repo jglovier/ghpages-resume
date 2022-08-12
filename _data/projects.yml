@@ -19,5 +19,5 @@
 - project: Water Quality Project
 #  role: Github Repository
   duration: 3/2022 &mdash; 6/2022
-  url: "C:\Users\marik\Documents\DATA 3320\Water-Quality-Project-Template.html"
+  #url: "C:\Users\marik\Documents\DATA 3320\Water-Quality-Project-Template.html"
   description: Used the data science methodology to investigate water quality in wells in Bangladesh using R. 
