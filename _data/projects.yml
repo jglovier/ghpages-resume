@@ -20,6 +20,6 @@
 - project: Water Quality Project
 #  role: Github Repository
   duration: 3/2022 &mdash; 6/2022
-#  url: 
-  link: Water-Quality-Project-Mari-Kwee.html
+  url: Water-Quality-Project-Mari-Kwee.html
+#  link: 
   description: Used the data science methodology to investigate water quality in wells in Bangladesh using R. 
