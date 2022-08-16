@@ -20,6 +20,12 @@
 - project: Water Quality Project
 #  role: Github Repository
   duration: 3/2022 &mdash; 6/2022
-  url: Water-Quality-Project-Mari-Kwee.html
-#  link: 
+  url: Water-Quality-Project-Mari-Kwee.html 
   description: Used the data science methodology to investigate water quality in wells in Bangladesh using R. 
+
+# Machine Learning
+- project: Surfing Machine Learning Project
+#  role: Github Repository
+  duration: 7/2022 &mdash; present
+#  url: 
+  description: Currently working on a Machine Learning Project to classify the best type of surfboard for a given surfer.
