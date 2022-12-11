@@ -23,9 +23,9 @@
   url: Water-Quality-Project-Mari-Kwee.html 
   description: Used the data science methodology to investigate water quality in wells in Bangladesh using R. 
 
-# Machine Learning
-#- project: Surfing Machine Learning Project
+# UX Design
+- project: Plant Mama
 #  role: Github Repository
-#  duration: 7/2022 &mdash; present
-#  url: 
-#  description: Currently working on a Machine Learning Project to classify the best type of surfboard for a given surfer.
+  duration: 9/2022 &mdash; 12/2022
+  url: https://plantmamaapp.blogspot.com/
+  description: Designed a mobile application using design principles. The application is designed to make growing plants easier.
