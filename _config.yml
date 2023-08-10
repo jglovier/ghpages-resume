@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mari Kwee"
-resume_title:                   "Computer Science Major and Data Science Minor at Seattle University"
+resume_title:                   "Software Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "kweemari@seattleu.edu"
+resume_contact_email:           "marikwee12@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "808-687-1364"
@@ -23,7 +23,9 @@ resume_contact_address:         "1223 E Cherry Street Seattle, WA"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, my name is Mari Kwee. I am a computer science major and data science minor at Seattle University. I expect to graduate in June 2023. Please feel free to contact me at kweemari@seattleu.edu below.</p>"
+resume_header_intro: "<p>Hi, my name is Mari Kwee. I recently graduated from Seattle University with a major in computer science and minor in data science. 
+ I am a software developer with 3 months experience from an internship with Hawaiian Airlines along with 9 months experience from working with a 
+ startup company, Ellebit. My current role is an associate software developer with Hawaiian Airlines. Please feel free to contact me at marikwee12@gmail.com below.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
