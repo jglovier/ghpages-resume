@@ -1,12 +1,12 @@
 # Jobs
 # Hawaiian Airlines
-company: Hawaiian Airlines
+- company: Hawaiian Airlines
   position: Assocate Software Developer at Hawaiian Airlines
   duration: July 2023 &mdash; Present
   summary: In my current role as a software developer, I have been designing, developing, and maintaining the loyalty systems. 
 
 # Ellebit
-company: Ellebit
+- company: Ellebit
   position: Student Software Developer
   duration: September 2022 &mdash; June 2023
   summary: For my senior capstone project, I was given the opportunity to work with a startup company, Ellebit, and build their web application 
