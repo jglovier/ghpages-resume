@@ -1,5 +1,24 @@
 # Jobs
 # Hawaiian Airlines
+company: Hawaiian Airlines
+  position: Assocate Software Developer at Hawaiian Airlines
+  duration: July 2023 &mdash; Present
+  summary: In my current role as a software developer, I have been designing, developing, and maintaining the loyalty systems. 
+
+# Ellebit
+company: Ellebit
+  position: Student Software Developer
+  duration: September 2022 &mdash; June 2023
+  summary: For my senior capstone project, I was given the opportunity to work with a startup company, Ellebit, and build their web application 
+           from the ground up. Ellebit is an all-in-one booking platform to easily manage reservations for private dining and catering in real time.
+           I worked in a team of four, and we went through the phases of design, development, testing, and deployment to build their reservation management system. 
+           We worked in an agile environment where we had weekly standup meetings with our sponsors (business). 
+           We communicated with our sponsors the work we had completed and planned for work they wanted us to complete. 
+           We communicated our concerns, clarifying questions, and successes. I learned a lot about the software development lifecyle from this experience
+           along with new skills, new programming languages, and professionalism. 
+
+
+# Hawaiian Airlines
 - company: Hawaiian Airlines
   position: Software Developer Intern at Hawaiian Airlines
   duration: June 2022 &mdash; September 2022
@@ -29,7 +48,7 @@
   position: Studio Experience Team
   duration: January 2020 &mdash; March 2020
   summary: Right before the Covid-19 outbreak, I worked at Core Power Yoga as a Studio Experience Teammember. 
-           I have been a Core Power Yoga member for six years, following a journey through yoga. 
+           I have been a Core Power Yoga member for nine years, following a journey through yoga. 
            I was able to give back to the yoga community I felt grounded in by creating a safe and healthy environment for members. 
            I wiped down yoga equiptment, sanitized studios, and interracted with customers on a daily basis making them feel as welcomed as possible.
 
