@@ -8,6 +8,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+resume_footer:
+  - Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.
+  - If this is your live resume, you can modify or remove this part. ;-)
+
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Lisa M. Simpson"
