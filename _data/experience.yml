@@ -1,15 +1,17 @@
 # Jobs
-# VP of Global Communications
+
 - company: BoxBoat, an IBM Company
-  position: VP of Global Communications
-  duration: "2021 - Present"
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  position: M&A Integration Lead
+  duration: "2021 — Present"
+  summary: |
+    Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
+    <ul class="resume-item-list">
+      <li>A project you are proud of</li>
+      <li>Another awesome project</li>
+      <li>or a team or department you worked with</li>
+    </ul>
 
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
+# VP of Global Communications
 - company: Springfield International Human Rights Outreach
   position: VP of Global Communications
   duration: Oct, 2013 &mdash; Present
