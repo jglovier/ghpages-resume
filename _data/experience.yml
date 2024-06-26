@@ -1,15 +1,39 @@
 # Jobs
 
+# - company: 
+#   position: 
+#   duration: "2021 — Present"
+#   summary: |
+#     Description.
+#     <ul class="resume-item-list">
+#       <li></li>
+#     </ul>
+
 - company: BoxBoat, an IBM Company
-  position: M&A Integration Lead
+  position: M&A Product Integration Lead
   duration: "2021 — Present"
   summary: |
     Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
     <ul class="resume-item-list">
-      <li>A project you are proud of</li>
-      <li>Another awesome project</li>
-      <li>or a team or department you worked with</li>
+      <li></li>
     </ul>
+
+- company: Northrop Grumman Corpoation
+  position: Software Engineer
+  duration: "2012 — 2015"
+  summary: As a developer at Northrop Grumman, I 
+
+- company: U.S. Air Force
+  position: Crew Chief, Tactical Aircraft
+  duration: "2008 — 2014"
+  summary: In this role, I organized and lead crew operations to ensure the combat readiness of fighter jets.
+
+- company: Lexmark Int'l
+  position: Electrical Engineering Technologist
+  duration: "2004 — 2008"
+  summary: During my time at Lexmark, I served multiple teams of Electrical Engineers in the design and development of printing systems.
+
+
 
 # VP of Global Communications
 - company: Springfield International Human Rights Outreach
