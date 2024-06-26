@@ -9,19 +9,66 @@
 #       <li></li>
 #     </ul>
 
-- company: BoxBoat, an IBM Company
+- company: IBM
   position: M&A Product Integration Lead
-  duration: "2021 — Present"
+  duration: "2024 — Present"
   summary: |
-    Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
-    <ul class="resume-item-list">
-      <li></li>
-    </ul>
+    - Responsible for the successful integration of product portfolios and teams into the IBM portfolio.
+    - Define Go-To-Market strategies for successful offering definitions. 
+    - Implement successful routes to market based on comprehensive market analysis.
+    - Ensure mitigation of security and reputational risks to IBM in the acquisition of new products.
+
+- company: BoxBoat, an IBM Company
+  position: Principal Product Manager
+  duration: "2022 — 2024"
+  summary: |
+    My focus as a Product Manager is to bring useful products to life. In this role, I lead a diverse team through all stages of bringing products and features to market while targeting a product vision that serves customer needs and drives revenue. My daily activities include, but are not limited to, the following:
+    - Defining product vision & go-to-market strategy
+    - Aligning stakeholders around the product vision
+    - Market monitoring and developing competitive analyses
+    - Gathering, understanding, and representing user needs.
+    - Empowering cross-org teams for independent decision-making on a shared vision
+
+- company: BoxBoat
+  position: Senior Managing Solutions Architect
+  duration: "2021 — 2022"
+  summary: |
+    Engagement Manager
+    Team Manager
+    Project interface to Executives
+
+
+- company: Optum
+  position: Cloud-Native Solutions Architect
+  duration: "2018 — 2020"
+  summary: |
+    During my work with Optum, I served as an internal consultant, enabling teams in their efforts to migrate on-premises workloads to Kubernetes in Azure. To support the teams in their Cloud-Native adoption efforts, I provided various training and workshop sessions to more than 70 developers and operations staff to support stronger understanding and capabilities around technologies such as Git, Terraform, and Kubernetes. In addition, I guided teams in the creation of fully operational Kubernetes clusters using Terraform and CI/CD pipelines for fully automated infrastructure deployments. While leading teams in creating reliable cluster management solutions, I assisted in the implementation of GitOps to manage things such as Kubernetes namespaces and Helm deployments. Most importantly, I provided lasting value by driving the adoption of a DevOps culture.
+
+- company: Nebbia Technology, a New Signature Company
+  position: Software Development & DevOps Consultant
+  duration: "2018 — 2020"
+  summary: |
+
+
+- company: Switchboard Live
+  position: Software Engineer
+  duration: "2017 — 2018"
+  summary: Switchboard Live is a live-stream multiplexing SaaS platform. As an early employee of this seed-stage startup, I covered the functions of many technical roles. As a developer, I implemented new systems and features and maintained existing systems. To support the various workloads of the business, I built and managed Cloud-based infrastructure, including a Docker Swarm cluster in Azure to support extreme autoscaling and efficient use of computing resources. In order to alleviate the pain of deployments, I drove DevOps adoption among the team to incorporate CI/CD pipelines along with various DevOps tools and strategies.
+
+- company: Wycliffe Associates
+  position: Full-Stack Software Engineer
+  duration: "2016 — 2017"
+  summary: I led a team of engineers to implement a greenfield text-to-give donation system. From initial requirement gathering to public release, the project was a huge success with nearly $50,000 raised on the first day. After leaving Wycliffe Assiciates, I continued to provide consulting services to guide the team in further development efforts.
+
+- company: CRU
+  position: Full-Stack Software Engineer
+  duration: "2015 — 2016"
+  summary: I joined a team of four to rebuild and rebrand a primary website with complex requirements for video streaming and a content management system. Including initial requirement gathering, we were able to deliver a highly optimized MVP in under four months, with the inclusion of a new content management system and robust backend and databasing capabilities to support search and linking of hundreds of thousands of videos.
 
 - company: Northrop Grumman Corpoation
   position: Software Engineer
   duration: "2012 — 2015"
-  summary: As a developer at Northrop Grumman, I 
+  summary: Unique challenges encountered in this position afforded me an opportunity to apply my background in Electrical Engineering to the problems I was solving with Software Engineering.
 
 - company: U.S. Air Force
   position: Crew Chief, Tactical Aircraft
