@@ -13,18 +13,8 @@
   position: M&A Product Integration Lead
   duration: "2024 — Present"
   summary: |
-    Test
-    Test
-
-    Test
-
-
-    Test
-
-
     - Responsible for the successful integration of product portfolios and teams into the IBM portfolio.
     - Define Go-To-Market strategies for successful offering definitions. 
-    
     - Implement successful routes to market based on comprehensive market analysis.
     - Ensure mitigation of security and reputational risks to IBM in the acquisition of new products.
 
@@ -68,27 +58,48 @@
 - company: Wycliffe Associates
   position: Full-Stack Software Engineer
   duration: "2016 — 2017"
-  summary: I led a team of engineers to implement a greenfield text-to-give donation system. From initial requirement gathering to public release, the project was a huge success with nearly $50,000 raised on the first day. After leaving Wycliffe Assiciates, I continued to provide consulting services to guide the team in further development efforts.
+  summary: |
+    At Wycliffe Associates, I led a team of engineers to design and implement a greenfield text-to-give donation system. My responsibilities included:
+    <ul class="resume-item-list">
+    <li>Project Leadership: Directed the project from initial requirement gathering to public release, ensuring alignment with organizational goals and donor needs.</li>
+    <li>System Development: Oversaw the development and deployment of the text-to-give system, utilizing modern technologies to create a seamless and user-friendly donation process.</li>
+    <li>Successful Launch: Achieved significant success upon launch, raising nearly $50,000 on the first day.</li>
+    <li>Consulting Services: Continued to provide consulting services after my tenure to guide the team in further development efforts and enhancements of the system.</li>
+</ul>
+    
+This project showcased my ability to lead complex technical initiatives and deliver impactful solutions that drive organizational success.
 
 - company: CRU
   position: Full-Stack Software Engineer
   duration: "2015 — 2016"
-  summary: I joined a team of four to rebuild and rebrand a primary website with complex requirements for video streaming and a content management system. Including initial requirement gathering, we were able to deliver a highly optimized MVP in under four months, with the inclusion of a new content management system and robust backend and databasing capabilities to support search and linking of hundreds of thousands of videos.
+  summary: |
+    As a Full-Stack Software Engineer in the Jesus Film Project division of CRU, I was part of a new team responsible for rebuilding and rebranding a primary website to meet complex requirements for video streaming and content management. My role involved:
+    <ul class="resume-item-list">
+      <li>Requirement Gathering: Collaborated with stakeholders to gather and define project requirements, ensuring the new platform met all user needs.</li>
+      <li>Development and Optimization: Delivered a highly optimized Minimum Viable Product (MVP) ahead of schedule. This encompassed the implementation of a sophisticated content management system and the development of robust backend and database infrastructures, ensuring efficient search and linkage capabilities for hundreds of thousands of videos.</li>
+      <li>Video Streaming: Engineered solutions for seamless video streaming, enhancing the user experience and accessibility of the Jesus Film's vast video library.</li>
+      <li>Mobile Development: Assisted other parts of the organization by developing custom mobile applications to support various ministry activities.</li>
+    </ul>
+    
+    
+    
+
+My contributions significantly improved the digital infrastructure of the Jesus Film Project, enabling better outreach and engagement with global audiences.
 
 - company: Northrop Grumman Corpoation
   position: Software Engineer
   duration: "2012 — 2015"
-  summary: Unique challenges encountered in this position afforded me an opportunity to apply my background in Electrical Engineering to the problems I was solving with Software Engineering.
+  summary: At Northrop Grumman, I worked on the Wideband Remote Monitoring Sensor (WRMS) program as a Software Engineer. This role presented unique challenges that allowed me to leverage my background in Electrical Engineering to address complex software engineering problems. I was responsible for developing and implementing advanced monitoring technologies, enhancing the ground station's capabilities to surveil and analyze wideband communication signals. My contributions ensured effective signal intelligence and communication oversight, directly supporting the U.S. Army's operational needs.
 
 - company: U.S. Air Force
   position: Crew Chief, Tactical Aircraft
   duration: "2008 — 2014"
-  summary: In this role, I organized and lead crew operations to ensure the combat readiness of fighter jets.
+  summary: As a Tactical Aircraft Mechanic (Crew Chief) in the U.S. Air Force, I organized and led crew operations to ensure the combat readiness of fighter jets. My responsibilities included maintaining and ensuring the readiness of advanced tactical aircraft by performing routine maintenance, troubleshooting, and repairing aircraft systems such as engines, hydraulics, avionics, and structural components. I coordinated and supervised pre-flight and post-flight inspections, guaranteeing aircraft safety and operational efficiency. Collaborating closely with pilots and other maintenance personnel, I provided technical expertise and support for mission-critical operations. My role required a high level of precision, attention to detail, and adherence to stringent safety protocols, significantly contributing to the mission success and operational readiness of the Air Force fleet.
 
 - company: Lexmark Int'l
   position: Electrical Engineering Technologist
   duration: "2004 — 2008"
-  summary: During my time at Lexmark, I served multiple teams of Electrical Engineers in the design and development of printing systems.
+  summary: As an Electrical Engineering Technician at Lexmark International, I provided critical support to multiple teams of Electrical Engineers in the design and development of advanced electronic systems. My responsibilities included assembling, testing, and troubleshooting electronic components and systems to ensure optimal performance and reliability. I collaborated closely with engineers to implement design modifications, conducted detailed inspections, and maintained comprehensive documentation of test results and project progress. My role was pivotal in streamlining the development process, improving system functionality, and contributing to the successful launch of several innovative products.
 
 
 
