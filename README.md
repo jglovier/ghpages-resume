@@ -1,5 +1,7 @@
 # Resume template
 
+[![pages-build-deployment](https://github.com/justin-vanwinkle/resume/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/justin-vanwinkle/resume/actions/workflows/pages/pages-build-deployment)
+
 *A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/screenshot.png)
