@@ -13,36 +13,63 @@
   position: M&A Product Integration Lead
   duration: "2024 — Present"
   summary: |
-    - Responsible for the successful integration of product portfolios and teams into the IBM portfolio.
-    - Define Go-To-Market strategies for successful offering definitions. 
-    - Implement successful routes to market based on comprehensive market analysis.
-    - Ensure mitigation of security and reputational risks to IBM in the acquisition of new products.
+    As the M&A Integration Lead at IBM, I am responsible and accountable for the successful integration of acquired product portfolios and teams into IBM's offerings. My role encompasses managing a highly complex set of projects involving five teams and over 20 products. Key responsibilities include:
+    <ul class="resume-item-list">
+      <li>Product and Team Integration: Oversee the seamless integration of product portfolios and teams into IBM's ecosystem, ensuring alignment with IBM's standards and practices.</li>
+      <li>Go-To-Market Strategies: Define and implement go-to-market strategies for successful offering definitions, ensuring new products are positioned effectively in the market.</li>
+      <li>Market Analysis: Conduct comprehensive market analysis to determine successful routes to market and optimize product launch and growth strategies.</li>
+      <li>Risk Mitigation: Ensure the mitigation of security and reputational risks associated with the acquisition of new products, safeguarding IBM's brand and integrity.</li>
+      <li>Cross-Functional Leadership: Lead and coordinate efforts across multiple teams, ensuring collaboration and alignment to achieve integration objectives.</li>
+      <li>Project Management: Manage project timelines, resources, and deliverables to ensure the successful completion of integration projects within scope and budget.</li>
+    </ul>
+In this role, I leverage my extensive experience in product management, market strategy, and team leadership to drive the successful integration of new products into IBM's portfolio, contributing to the company's growth and innovation.
 
 - company: BoxBoat, an IBM Company
   position: Principal Product Manager
   duration: "2022 — 2024"
   summary: |
-    My focus as a Product Manager is to bring useful products to life. In this role, I lead a diverse team through all stages of bringing products and features to market while targeting a product vision that serves customer needs and drives revenue. My daily activities include, but are not limited to, the following:
-    - Defining product vision & go-to-market strategy
-    - Aligning stakeholders around the product vision
-    - Market monitoring and developing competitive analyses
-    - Gathering, understanding, and representing user needs.
-    - Empowering cross-org teams for independent decision-making on a shared vision
+    As the Product Manager for Cloud Native Academy at BoxBoat, I was responsible for bringing valuable and innovative products to market. My role encompassed leading a diverse team through all stages of product development and market introduction, ensuring alignment with the product vision and customer needs. Key responsibilities included:
+    <ul class="resume-item-list">
+      <li>Product Vision and Strategy: Defined the product vision and go-to-market strategy, ensuring the product served customer needs and drove revenue growth.</li>
+      <li>Stakeholder Alignment: Aligned stakeholders around the product vision, fostering a unified approach and securing necessary buy-in and support.</li>
+      <li>Market Analysis: Monitored market trends and developed competitive analyses to ensure the product remained relevant and competitive.</li>
+      <li>User-Centric Development: Gathered, understood, and represented user needs throughout the product development process, ensuring the product addressed real-world challenges and delivered value.</li>
+      <li>Team Empowerment: Empowered cross-functional teams to make independent decisions aligned with a shared vision, fostering a collaborative and agile development environment.</li>
+      <li>Feature Prioritization and Roadmapping: Prioritized features and created product roadmaps based on customer feedback, market research, and business goals.</li>
+      <li>Product Lifecycle Management: Oversaw the product lifecycle from ideation to launch, ensuring timely delivery and continuous improvement based on user feedback and market demands.</li>
+      <li>Performance Metrics and KPIs: Established and monitored key performance indicators (KPIs) to measure product success and identify areas for improvement.</li>
+    </ul>
+    In this role, I leveraged my expertise in product management to ensure that Cloud Native Academy delivered exceptional value to customers, supported their cloud-native journeys, and contributed to BoxBoat's strategic objectives.
 
 - company: BoxBoat
   position: Senior Managing Solutions Architect
   duration: "2021 — 2022"
   summary: |
-    Engagement Manager
-    Team Manager
-    Project interface to Executives
+    As a Senior Managing Solutions Architect at BoxBoat, I lead teams and manage engagements as a consultant to external companies. My responsibilities include:
+    <ul class="resume-item-list">
+      <li>Team Leadership: Managing and mentoring a team of 4-5 engineers, guiding them through project execution and professional development.</li>
+      <li>Client Engagements: Leading and overseeing client engagements, ensuring successful delivery of solutions that meet client needs and expectations.</li>
+      <li>Strategic Consulting: Providing strategic guidance to clients on adopting and implementing DevOps, containerization, and cloud-native technologies.</li>
+      <li>Project Management: Coordinating and managing project timelines, resources, and deliverables to ensure on-time and within-budget completion.</li>
+      <li>Technical Expertise: Leveraging deep technical knowledge to design and implement solutions using Kubernetes, Docker, and other cloud-native technologies.</li>
+      <li>Training and Enablement: Conducting training sessions and workshops to educate client teams on best practices in DevOps and cloud-native technologies, enhancing their capabilities and fostering a DevOps culture.</li>
+    </ul>
+    Through my leadership and expertise, I have helped clients successfully transition to modern, scalable, and efficient technology stacks, driving their digital transformation and improving their operational efficiency.
 
 
 - company: Optum
   position: Cloud-Native Solutions Architect
-  duration: "2018 — 2020"
+  duration: "2020 — 2021"
   summary: |
-    During my work with Optum, I served as an internal consultant, enabling teams in their efforts to migrate on-premises workloads to Kubernetes in Azure. To support the teams in their Cloud-Native adoption efforts, I provided various training and workshop sessions to more than 70 developers and operations staff to support stronger understanding and capabilities around technologies such as Git, Terraform, and Kubernetes. In addition, I guided teams in the creation of fully operational Kubernetes clusters using Terraform and CI/CD pipelines for fully automated infrastructure deployments. While leading teams in creating reliable cluster management solutions, I assisted in the implementation of GitOps to manage things such as Kubernetes namespaces and Helm deployments. Most importantly, I provided lasting value by driving the adoption of a DevOps culture.
+    During my contract with Optum, I played a key role in their transition to Azure, Kubernetes, containers, and DevSecOps. My responsibilities and accomplishments included:
+    <ul class="resume-item-list">
+      <li>Cloud-Native Adoption: Led efforts to migrate on-premises workloads to Kubernetes in Azure, guiding teams through the process and ensuring successful deployment and operation.</li>
+      <li>Training and Workshops: Conducted various training sessions and workshops for over 70 developers and operations staff, enhancing their understanding and capabilities in technologies such as Git, Terraform, and Kubernetes.</li>
+      <li>Infrastructure Automation: Directed the creation of fully operational Kubernetes clusters using Terraform and established CI/CD pipelines for automated infrastructure deployments.</li>
+      <li>GitOps Implementation: Assisted in the implementation of GitOps to manage Kubernetes namespaces and Helm deployments, ensuring reliable and consistent cluster management solutions.</li>
+      <li>DevOps Culture: Provided lasting value by driving the adoption of a DevOps culture, fostering collaboration and improving the efficiency and effectiveness of development and operations teams.</li>
+    </ul>
+    My contributions enabled Optum to effectively transition to a cloud-native environment, enhancing their technological capabilities and supporting their ongoing digital transformation efforts.
 
 - company: Nebbia Technology, a New Signature Company
   position: Software Development & DevOps Consultant
@@ -95,11 +122,7 @@
       <li>Video Streaming: Engineered solutions for seamless video streaming, enhancing the user experience and accessibility of the Jesus Film's vast video library.</li>
       <li>Mobile Development: Assisted other parts of the organization by developing custom mobile applications to support various ministry activities.</li>
     </ul>
-    
-    
-    
-
-My contributions significantly improved the digital infrastructure of the Jesus Film Project, enabling better outreach and engagement with global audiences.
+    My contributions significantly improved the digital infrastructure of the Jesus Film Project, enabling better outreach and engagement with global audiences.
 
 - company: Northrop Grumman Corpoation
   position: Software Engineer
