@@ -63,14 +63,14 @@
       margin: 0 0 .5rem;
 
       @include media_larger_than_mobile {
-        float: left;
+        // float: left;
         margin: 0;
       }
     }
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    // @include media_larger_than_mobile { font-size: 1.125rem; }
   }
 }
 
@@ -85,9 +85,9 @@
   padding-top: .4rem;
 
   @include media_larger_than_mobile {
-    float: right;
+    // float: right;
     border-top: none;
-    padding-top: 0;
+    padding-top: 4px;
   }
 
   .icon-link-item {

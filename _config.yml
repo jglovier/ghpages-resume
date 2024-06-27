@@ -20,8 +20,8 @@ resume_contact_email:           "vanwinkle.justin@gmail.com"
 resume_contact_telephone:       "1-321-765-9267"
 resume_contact_address:         "4707 Foreland Place, Orlando, FL 32812"
 
-resume_header_contact_info:     "4707 Foreland Place, Orlando, FL 32812 • 1-321-765-9267 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "+1 (321) 765-9267 • vanwinkle.justin@gmail.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Tech leader and MBA candidate with a strong background in software engineering, DevOps, and product management. Proven in leading complex projects and teams, delivering innovative solutions, and driving significant market impact. Expertise in cloud-native technologies and product lifecycle management. Dedicated to empowering teams, fostering collaboration, and managing high-impact projects that drive growth and innovation. Passionate about business, tech leadership, and helping others succeed.</p>"
 
