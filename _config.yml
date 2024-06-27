@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Justin VanWinkle"
-resume_title:                   "Senior Tech Leader | Product Management | MBA Candidate"
+resume_title:                   "Senior Tech Leader | MBA Candidate"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "vanwinkle.justin@gmail.com"
