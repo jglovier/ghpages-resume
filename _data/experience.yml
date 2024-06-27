@@ -48,12 +48,27 @@
   position: Software Development & DevOps Consultant
   duration: "2018 — 2020"
   summary: |
+  At Nebbia Technology, which was later acquired by New Signature, I served as a Software Development & DevOps Consultant. My role involved providing thought leadership and execution strategies at the intersection of Cloud and DevOps adoption. Key responsibilities and achievements included:
+    <ul class="resume-item-list">
+      <li>DevOps Adoption: Led DevOps initiatives for various organizations, significantly enhancing their software stability and delivery throughput. This included increasing the frequency of code deployments, reducing the time from code commit to production deployment, accelerating recovery from incidents, and lowering the failure rate of production changes.</li>
+      <li>Cross-Team Collaboration: Fostered cross-team collaboration and alignment between business and development teams, resulting in immediate gains in organizational performance and productivity for companies ready to embrace a DevOps culture.</li>
+      <li>Technical Leadership: Provided strategic guidance and hands-on implementation across a wide array of technologies, helping organizations navigate their cloud and DevOps journeys effectively.</li>
+      <li>Software Development: Contributed to software projects, delivering robust and scalable solutions that met client needs and enhanced their operational capabilities.</li>
+    </ul>
+    Through my efforts, I provided significant value to multiple organizations, driving their DevOps adoption and improving their overall software delivery processes.
 
 
 - company: Switchboard Live
   position: Software Engineer
   duration: "2017 — 2018"
-  summary: Switchboard Live is a live-stream multiplexing SaaS platform. As an early employee of this seed-stage startup, I covered the functions of many technical roles. As a developer, I implemented new systems and features and maintained existing systems. To support the various workloads of the business, I built and managed Cloud-based infrastructure, including a Docker Swarm cluster in Azure to support extreme autoscaling and efficient use of computing resources. In order to alleviate the pain of deployments, I drove DevOps adoption among the team to incorporate CI/CD pipelines along with various DevOps tools and strategies.
+  summary: |
+    As a software engineer at Switchboard Live, a live-stream multiplexing SaaS platform, I was an early employee at this seed-stage startup and took on multiple technical roles. My key responsibilities included:
+    <ul class="resume-item-list">
+      <li>System Development and Maintenance: Implemented new systems and features while maintaining existing systems to enhance platform functionality and performance.</li>
+      <li>Cloud Infrastructure Management: Built and managed cloud-based infrastructure, including a Docker Swarm cluster in Azure, to support extreme autoscaling and efficient use of computing resources.</li>
+      <li>DevOps Implementation: Led the adoption of DevOps practices within the team, incorporating CI/CD pipelines and various DevOps tools and strategies to streamline deployment processes and improve operational efficiency.</li>
+    </ul>
+    My contributions were crucial in supporting the diverse technical needs of the business, ensuring robust infrastructure and efficient development workflows.
 
 - company: Wycliffe Associates
   position: Full-Stack Software Engineer
@@ -61,13 +76,13 @@
   summary: |
     At Wycliffe Associates, I led a team of engineers to design and implement a greenfield text-to-give donation system. My responsibilities included:
     <ul class="resume-item-list">
-    <li>Project Leadership: Directed the project from initial requirement gathering to public release, ensuring alignment with organizational goals and donor needs.</li>
-    <li>System Development: Oversaw the development and deployment of the text-to-give system, utilizing modern technologies to create a seamless and user-friendly donation process.</li>
-    <li>Successful Launch: Achieved significant success upon launch, raising nearly $50,000 on the first day.</li>
-    <li>Consulting Services: Continued to provide consulting services after my tenure to guide the team in further development efforts and enhancements of the system.</li>
-</ul>
+      <li>Project Leadership: Directed the project from initial requirement gathering to public release, ensuring alignment with organizational goals and donor needs.</li>
+      <li>System Development: Oversaw the development and deployment of the text-to-give system, utilizing modern technologies to create a seamless and user-friendly donation process.</li>
+      <li>Successful Launch: Achieved significant success upon launch, raising nearly $50,000 on the first day.</li>
+      <li>Consulting Services: Continued to provide consulting services after my tenure to guide the team in further development efforts and enhancements of the system.</li>
+    </ul>
     
-This project showcased my ability to lead complex technical initiatives and deliver impactful solutions that drive organizational success.
+    This project showcased my ability to lead complex technical initiatives and deliver impactful solutions that drive organizational success.
 
 - company: CRU
   position: Full-Stack Software Engineer
