@@ -127,18 +127,37 @@ In this role, I leverage my extensive experience in product management, market s
 - company: Northrop Grumman Corpoation
   position: Software Engineer
   duration: "2012 — 2015"
-  summary: At Northrop Grumman, I worked on the Wideband Remote Monitoring Sensor (WRMS) program as a Software Engineer. This role presented unique challenges that allowed me to leverage my background in Electrical Engineering to address complex software engineering problems. I was responsible for developing and implementing advanced monitoring technologies, enhancing the ground station's capabilities to surveil and analyze wideband communication signals. My contributions ensured effective signal intelligence and communication oversight, directly supporting the U.S. Army's operational needs.
+  summary: |
+    At Northrop Grumman, I worked on the Wideband Remote Monitoring Sensor (WRMS) program as a Software Engineer. My responsibilities included:
+    <ul class="resume-item-list">
+      <li>Software Development: Developed and implemented advanced monitoring technologies to enhance ground station capabilities for wideband communication signal surveillance and analysis.</li>
+      <li>Engineering Application: Applied my background in Electrical Engineering to solve complex software engineering problems, improving system functionality and reliability.</li>
+      <li>Collaboration and Documentation: Collaborated with cross-functional teams, conducted detailed inspections, and maintained comprehensive documentation of project progress.</li>
+    </ul>
 
 - company: U.S. Air Force
   position: Crew Chief, Tactical Aircraft
   duration: "2008 — 2014"
-  summary: As a Tactical Aircraft Mechanic (Crew Chief) in the U.S. Air Force, I organized and led crew operations to ensure the combat readiness of fighter jets. My responsibilities included maintaining and ensuring the readiness of advanced tactical aircraft by performing routine maintenance, troubleshooting, and repairing aircraft systems such as engines, hydraulics, avionics, and structural components. I coordinated and supervised pre-flight and post-flight inspections, guaranteeing aircraft safety and operational efficiency. Collaborating closely with pilots and other maintenance personnel, I provided technical expertise and support for mission-critical operations. My role required a high level of precision, attention to detail, and adherence to stringent safety protocols, significantly contributing to the mission success and operational readiness of the Air Force fleet.
+  summary: |
+    As a Tactical Aircraft Mechanic (Crew Chief) in the U.S. Air Force, I was responsible for maintaining and ensuring the readiness of advanced tactical aircraft. My duties included:
+    <ul class="resume-item-list">
+      <li>Maintenance and Repair: Performed routine maintenance, troubleshooting, and repair of aircraft systems, including engines, hydraulics, avionics, and structural components.</li>
+      <li>Inspection and Supervision: Coordinated and supervised pre-flight and post-flight inspections, ensuring aircraft safety and operational efficiency.</li>
+      <li>Technical Support: Worked closely with pilots and other maintenance personnel, providing technical expertise and support for mission-critical operations.</li>
+      <li>Leadership: Organized and led crew operations to ensure the combat readiness of fighter jets, requiring a high level of precision and adherence to stringent safety protocols.</li>
+    </ul>
 
 - company: Lexmark Int'l
   position: Electrical Engineering Technologist
   duration: "2004 — 2008"
-  summary: As an Electrical Engineering Technician at Lexmark International, I provided critical support to multiple teams of Electrical Engineers in the design and development of advanced electronic systems. My responsibilities included assembling, testing, and troubleshooting electronic components and systems to ensure optimal performance and reliability. I collaborated closely with engineers to implement design modifications, conducted detailed inspections, and maintained comprehensive documentation of test results and project progress. My role was pivotal in streamlining the development process, improving system functionality, and contributing to the successful launch of several innovative products.
-
+  summary: |
+    As an Electrical Engineering Technician at Lexmark International, I provided critical support to multiple teams of Electrical Engineers in the design and development of advanced electronic systems. My responsibilities included:
+    <ul class="resume-item-list">
+      <li>Component Assembly and Testing: Assembled, tested, and troubleshooted electronic components and systems to ensure optimal performance and reliability.</li>
+      <li>Collaboration: Worked closely with engineers to implement design modifications and improve system functionality.</li>
+      <li>Inspections and Documentation: Conducted detailed inspections and maintained comprehensive documentation of test results and project progress.</li>
+      <li>Process Streamlining: Streamlined the development process, contributing to the successful launch of several innovative products.</li>
+    </ul>
 
 
 # VP of Global Communications
