@@ -6,21 +6,35 @@
 #   summary: |
 #     Description.
 #     <ul class="resume-item-list">
-#       <li></li>
+#       <li><b></b> </li>
 #     </ul>
 
+- company: PETE Learning
+  position: Head of Product (Part-time)
+  duration: "2023 — Present"
+  summary: |
+    PETE Learning is an early-stage AI-powered learning platform and accelerates course and content creation while boosting learning effectiveness through its innovative use of artificial intelligence. As the Head of Product at Pete Learning, I lead the development and execution of AI-powered products. My role involves guiding technical projects and product strategies with global teams to deliver innovative solutions that enhance learning experiences. Key responsibilities include:
+    <ul class="resume-item-list">
+      <li><b>Product Leadership:</b> Oversee the entire product lifecycle from ideation to launch, ensuring alignment with company vision and customer needs.</li>
+      <li><b>AI Integration:</b> Leverage AI technologies to optimize and personalize educational content, driving significant improvements in learning effectiveness.</li>
+      <li><b>Global Team Management:</b> Coordinate and manage global teams to execute technical projects, ensuring timely and successful delivery.</li>
+      <li><b>Market Strategy:</b> Define and implement go-to-market strategies, conducting market analysis to stay ahead of industry trends.</li>
+      <li><b>Technical Guidance:</b> Provide technical direction and expertise to ensure the development of robust and scalable AI-powered solutions.</li>
+    </ul>
+    Through my leadership, Pete Learning has successfully developed and launched cutting-edge educational products, significantly impacting the market and advancing the company's mission to revolutionize learning with AI.
+
 - company: IBM
-  position: M&A Product Integration Lead
+  position: M&A Integration Lead
   duration: "2024 — Present"
   summary: |
-    As the M&A Integration Lead at IBM, I am responsible and accountable for the successful integration of acquired product portfolios and teams into IBM's offerings. My role encompasses managing a highly complex set of projects involving five teams and over 20 products. Key responsibilities include:
+    As an M&A Integration Lead at IBM, I am responsible and accountable for the successful integration of acquired product portfolios and teams into IBM's offerings. My role encompasses managing a highly complex set of projects involving five teams and over 20 products. Key responsibilities include:
     <ul class="resume-item-list">
-      <li>Product and Team Integration: Oversee the seamless integration of product portfolios and teams into IBM's ecosystem, ensuring alignment with IBM's standards and practices.</li>
-      <li>Go-To-Market Strategies: Define and implement go-to-market strategies for successful offering definitions, ensuring new products are positioned effectively in the market.</li>
-      <li>Market Analysis: Conduct comprehensive market analysis to determine successful routes to market and optimize product launch and growth strategies.</li>
-      <li>Risk Mitigation: Ensure the mitigation of security and reputational risks associated with the acquisition of new products, safeguarding IBM's brand and integrity.</li>
-      <li>Cross-Functional Leadership: Lead and coordinate efforts across multiple teams, ensuring collaboration and alignment to achieve integration objectives.</li>
-      <li>Project Management: Manage project timelines, resources, and deliverables to ensure the successful completion of integration projects within scope and budget.</li>
+      <li><b>Product and Team Integration:</b> Oversee the seamless integration of product portfolios and teams into IBM's ecosystem, ensuring alignment with IBM's standards and practices.</li>
+      <li><b>Go-To-Market Strategies:</b> Define and implement go-to-market strategies for successful offering definitions, ensuring new products are positioned effectively in the market.</li>
+      <li><b>Market Analysis:</b> Conduct comprehensive market analysis to determine successful routes to market and optimize product launch and growth strategies.</li>
+      <li><b>Risk Mitigation:</b> Ensure the mitigation of security and reputational risks associated with the acquisition of new products, safeguarding IBM's brand and integrity.</li>
+      <li><b>Cross-Functional Leadership:</b> Lead and coordinate efforts across multiple teams, ensuring collaboration and alignment to achieve integration objectives.</li>
+      <li><b>Project Management:</b> Manage project timelines, resources, and deliverables to ensure the successful completion of integration projects within scope and budget.</li>
     </ul>
     In this role, I leverage my extensive experience in product management, market strategy, and team leadership to drive the successful integration of new products into IBM's portfolio, contributing to the company's growth and innovation.
 
@@ -30,14 +44,14 @@
   summary: |
     As the Product Manager for Cloud Native Academy at BoxBoat, I was responsible for bringing valuable and innovative products to market. My role encompassed leading a diverse team through all stages of product development and market introduction, ensuring alignment with the product vision and customer needs. Key responsibilities included:
     <ul class="resume-item-list">
-      <li>Product Vision and Strategy: Defined the product vision and go-to-market strategy, ensuring the product served customer needs and drove revenue growth.</li>
-      <li>Stakeholder Alignment: Aligned stakeholders around the product vision, fostering a unified approach and securing necessary buy-in and support.</li>
-      <li>Market Analysis: Monitored market trends and developed competitive analyses to ensure the product remained relevant and competitive.</li>
-      <li>User-Centric Development: Gathered, understood, and represented user needs throughout the product development process, ensuring the product addressed real-world challenges and delivered value.</li>
-      <li>Team Empowerment: Empowered cross-functional teams to make independent decisions aligned with a shared vision, fostering a collaborative and agile development environment.</li>
-      <li>Feature Prioritization and Roadmapping: Prioritized features and created product roadmaps based on customer feedback, market research, and business goals.</li>
-      <li>Product Lifecycle Management: Oversaw the product lifecycle from ideation to launch, ensuring timely delivery and continuous improvement based on user feedback and market demands.</li>
-      <li>Performance Metrics and KPIs: Established and monitored key performance indicators (KPIs) to measure product success and identify areas for improvement.</li>
+      <li><b>Product Vision and Strategy:</b> Defined the product vision and go-to-market strategy, ensuring the product served customer needs and drove revenue growth.</li>
+      <li><b>Stakeholder Alignment:</b> Aligned stakeholders around the product vision, fostering a unified approach and securing necessary buy-in and support.</li>
+      <li><b>Market Analysis:</b> Monitored market trends and developed competitive analyses to ensure the product remained relevant and competitive.</li>
+      <li><b>User-Centric Development:</b> Gathered, understood, and represented user needs throughout the product development process, ensuring the product addressed real-world challenges and delivered value.</li>
+      <li><b>Team Empowerment:</b> Empowered cross-functional teams to make independent decisions aligned with a shared vision, fostering a collaborative and agile development environment.</li>
+      <li><b>Feature Prioritization and Roadmapping:</b> Prioritized features and created product roadmaps based on customer feedback, market research, and business goals.</li>
+      <li><b>Product Lifecycle Management:</b> Oversaw the product lifecycle from ideation to launch, ensuring timely delivery and continuous improvement based on user feedback and market demands.</li>
+      <li><b>Performance Metrics and KPIs:</b> Established and monitored key performance indicators (KPIs) to measure product success and identify areas for improvement.</li>
     </ul>
     In this role, I leveraged my expertise in product management to ensure that Cloud Native Academy delivered exceptional value to customers, supported their cloud-native journeys, and contributed to BoxBoat's strategic objectives.
 
@@ -47,12 +61,12 @@
   summary: |
     As a Senior Managing Solutions Architect at BoxBoat, I lead teams and manage engagements as a consultant to external companies. My responsibilities include:
     <ul class="resume-item-list">
-      <li>Team Leadership: Managing and mentoring a team of 4-5 engineers, guiding them through project execution and professional development.</li>
-      <li>Client Engagements: Leading and overseeing client engagements, ensuring successful delivery of solutions that meet client needs and expectations.</li>
-      <li>Strategic Consulting: Providing strategic guidance to clients on adopting and implementing DevOps, containerization, and cloud-native technologies.</li>
-      <li>Project Management: Coordinating and managing project timelines, resources, and deliverables to ensure on-time and within-budget completion.</li>
-      <li>Technical Expertise: Leveraging deep technical knowledge to design and implement solutions using Kubernetes, Docker, and other cloud-native technologies.</li>
-      <li>Training and Enablement: Conducting training sessions and workshops to educate client teams on best practices in DevOps and cloud-native technologies, enhancing their capabilities and fostering a DevOps culture.</li>
+      <li><b>Team Leadership:</b> Managing and mentoring a team of 4-5 engineers, guiding them through project execution and professional development.</li>
+      <li><b>Client Engagements:</b> Leading and overseeing client engagements, ensuring successful delivery of solutions that meet client needs and expectations.</li>
+      <li><b>Strategic Consulting:</b> Providing strategic guidance to clients on adopting and implementing DevOps, containerization, and cloud-native technologies.</li>
+      <li><b>Project Management:</b> Coordinating and managing project timelines, resources, and deliverables to ensure on-time and within-budget completion.</li>
+      <li><b>Technical Expertise:</b> Leveraging deep technical knowledge to design and implement solutions using Kubernetes, Docker, and other cloud-native technologies.</li>
+      <li><b>Training and Enablement:</b> Conducting training sessions and workshops to educate client teams on best practices in DevOps and cloud-native technologies, enhancing their capabilities and fostering a DevOps culture.</li>
     </ul>
     Through my leadership and expertise, I have helped clients successfully transition to modern, scalable, and efficient technology stacks, driving their digital transformation and improving their operational efficiency.
 
@@ -63,11 +77,11 @@
   summary: |
     During my contract with Optum, I played a key role in their transition to Azure, Kubernetes, containers, and DevSecOps. My responsibilities and accomplishments included:
     <ul class="resume-item-list">
-      <li>Cloud-Native Adoption: Led efforts to migrate on-premises workloads to Kubernetes in Azure, guiding teams through the process and ensuring successful deployment and operation.</li>
-      <li>Training and Workshops: Conducted various training sessions and workshops for over 70 developers and operations staff, enhancing their understanding and capabilities in technologies such as Git, Terraform, and Kubernetes.</li>
-      <li>Infrastructure Automation: Directed the creation of fully operational Kubernetes clusters using Terraform and established CI/CD pipelines for automated infrastructure deployments.</li>
-      <li>GitOps Implementation: Assisted in the implementation of GitOps to manage Kubernetes namespaces and Helm deployments, ensuring reliable and consistent cluster management solutions.</li>
-      <li>DevOps Culture: Provided lasting value by driving the adoption of a DevOps culture, fostering collaboration and improving the efficiency and effectiveness of development and operations teams.</li>
+      <li><b>Cloud-Native Adoption:</b> Led efforts to migrate on-premises workloads to Kubernetes in Azure, guiding teams through the process and ensuring successful deployment and operation.</li>
+      <li><b>Training and Workshops:</b> Conducted various training sessions and workshops for over 70 developers and operations staff, enhancing their understanding and capabilities in technologies such as Git, Terraform, and Kubernetes.</li>
+      <li><b>Infrastructure Automation:</b> Directed the creation of fully operational Kubernetes clusters using Terraform and established CI/CD pipelines for automated infrastructure deployments.</li>
+      <li><b>GitOps Implementation:</b> Assisted in the implementation of GitOps to manage Kubernetes namespaces and Helm deployments, ensuring reliable and consistent cluster management solutions.</li>
+      <li><b>DevOps Culture:</b> Provided lasting value by driving the adoption of a DevOps culture, fostering collaboration and improving the efficiency and effectiveness of development and operations teams.</li>
     </ul>
     My contributions enabled Optum to effectively transition to a cloud-native environment, enhancing their technological capabilities and supporting their ongoing digital transformation efforts.
 
@@ -77,10 +91,10 @@
   summary: |
     At Nebbia Technology, which was later acquired by New Signature, I served as a Software Development & DevOps Consultant. My role involved providing thought leadership and execution strategies at the intersection of Cloud and DevOps adoption. Key responsibilities and achievements included:
     <ul class="resume-item-list">
-      <li>DevOps Adoption: Led DevOps initiatives for various organizations, significantly enhancing their software stability and delivery throughput. This included increasing the frequency of code deployments, reducing the time from code commit to production deployment, accelerating recovery from incidents, and lowering the failure rate of production changes.</li>
-      <li>Cross-Team Collaboration: Fostered cross-team collaboration and alignment between business and development teams, resulting in immediate gains in organizational performance and productivity for companies ready to embrace a DevOps culture.</li>
-      <li>Technical Leadership: Provided strategic guidance and hands-on implementation across a wide array of technologies, helping organizations navigate their cloud and DevOps journeys effectively.</li>
-      <li>Software Development: Contributed to software projects, delivering robust and scalable solutions that met client needs and enhanced their operational capabilities.</li>
+      <li><b>DevOps Adoption:</b> Led DevOps initiatives for various organizations, significantly enhancing their software stability and delivery throughput. This included increasing the frequency of code deployments, reducing the time from code commit to production deployment, accelerating recovery from incidents, and lowering the failure rate of production changes.</li>
+      <li><b>Cross-Team Collaboration:</b> Fostered cross-team collaboration and alignment between business and development teams, resulting in immediate gains in organizational performance and productivity for companies ready to embrace a DevOps culture.</li>
+      <li><b>Technical Leadership:</b> Provided strategic guidance and hands-on implementation across a wide array of technologies, helping organizations navigate their cloud and DevOps journeys effectively.</li>
+      <li><b>Software Development:</b> Contributed to software projects, delivering robust and scalable solutions that met client needs and enhanced their operational capabilities.</li>
     </ul>
     Through my efforts, I provided significant value to multiple organizations, driving their DevOps adoption and improving their overall software delivery processes.
 
@@ -91,9 +105,9 @@
   summary: |
     As a software engineer at Switchboard Live, a live-stream multiplexing SaaS platform, I was an early employee at this seed-stage startup and took on multiple technical roles. My key responsibilities included:
     <ul class="resume-item-list">
-      <li>System Development and Maintenance: Implemented new systems and features while maintaining existing systems to enhance platform functionality and performance.</li>
-      <li>Cloud Infrastructure Management: Built and managed cloud-based infrastructure, including a Docker Swarm cluster in Azure, to support extreme autoscaling and efficient use of computing resources.</li>
-      <li>DevOps Implementation: Led the adoption of DevOps practices within the team, incorporating CI/CD pipelines and various DevOps tools and strategies to streamline deployment processes and improve operational efficiency.</li>
+      <li><b>System Development and Maintenance:</b> Implemented new systems and features while maintaining existing systems to enhance platform functionality and performance.</li>
+      <li><b>Cloud Infrastructure Management:</b> Built and managed cloud-based infrastructure, including a Docker Swarm cluster in Azure, to support extreme autoscaling and efficient use of computing resources.</li>
+      <li><b>DevOps Implementation:</b> Led the adoption of DevOps practices within the team, incorporating CI/CD pipelines and various DevOps tools and strategies to streamline deployment processes and improve operational efficiency.</li>
     </ul>
     My contributions were crucial in supporting the diverse technical needs of the business, ensuring robust infrastructure and efficient development workflows.
 
@@ -103,10 +117,10 @@
   summary: |
     At Wycliffe Associates, I led a team of engineers to design and implement a greenfield text-to-give donation system. My responsibilities included:
     <ul class="resume-item-list">
-      <li>Project Leadership: Directed the project from initial requirement gathering to public release, ensuring alignment with organizational goals and donor needs.</li>
-      <li>System Development: Oversaw the development and deployment of the text-to-give system, utilizing modern technologies to create a seamless and user-friendly donation process.</li>
-      <li>Successful Launch: Achieved significant success upon launch, raising nearly $50,000 on the first day.</li>
-      <li>Consulting Services: Continued to provide consulting services after my tenure to guide the team in further development efforts and enhancements of the system.</li>
+      <li><b>Project Leadership:</b> Directed the project from initial requirement gathering to public release, ensuring alignment with organizational goals and donor needs.</li>
+      <li><b>System Development:</b> Oversaw the development and deployment of the text-to-give system, utilizing modern technologies to create a seamless and user-friendly donation process.</li>
+      <li><b>Successful Launch:</b> Achieved significant success upon launch, raising nearly $50,000 on the first day.</li>
+      <li><b>Consulting Services:</b> Continued to provide consulting services after my tenure to guide the team in further development efforts and enhancements of the system.</li>
     </ul>
     
     This project showcased my ability to lead complex technical initiatives and deliver impactful solutions that drive organizational success.
@@ -117,10 +131,10 @@
   summary: |
     As a Full-Stack Software Engineer in the Jesus Film Project division of CRU, I was part of a new team responsible for rebuilding and rebranding a primary website to meet complex requirements for video streaming and content management. My role involved:
     <ul class="resume-item-list">
-      <li>Requirement Gathering: Collaborated with stakeholders to gather and define project requirements, ensuring the new platform met all user needs.</li>
-      <li>Development and Optimization: Delivered a highly optimized Minimum Viable Product (MVP) ahead of schedule. This encompassed the implementation of a sophisticated content management system and the development of robust backend and database infrastructures, ensuring efficient search and linkage capabilities for hundreds of thousands of videos.</li>
-      <li>Video Streaming: Engineered solutions for seamless video streaming, enhancing the user experience and accessibility of the Jesus Film's vast video library.</li>
-      <li>Mobile Development: Assisted other parts of the organization by developing custom mobile applications to support various ministry activities.</li>
+      <li><b>Requirement Gathering:</b>  Collaborated with stakeholders to gather and define project requirements, ensuring the new platform met all user needs.</li>
+      <li><b>Development and Optimization:</b>  Delivered a highly optimized Minimum Viable Product (MVP) ahead of schedule. This encompassed the implementation of a sophisticated content management system and the development of robust backend and database infrastructures, ensuring efficient search and linkage capabilities for hundreds of thousands of videos.</li>
+      <li><b>Video Streaming:</b>  Engineered solutions for seamless video streaming, enhancing the user experience and accessibility of the Jesus Film's vast video library.</li>
+      <li><b>Mobile Development:</b>  Assisted other parts of the organization by developing custom mobile applications to support various ministry activities.</li>
     </ul>
     My contributions significantly improved the digital infrastructure of the Jesus Film Project, enabling better outreach and engagement with global audiences.
 
@@ -130,9 +144,9 @@
   summary: |
     At Northrop Grumman, I worked on the Wideband Remote Monitoring Sensor (WRMS) program as a Software Engineer. My responsibilities included:
     <ul class="resume-item-list">
-      <li>Software Development: Developed and implemented advanced monitoring technologies to enhance ground station capabilities for wideband communication signal surveillance and analysis.</li>
-      <li>Engineering Application: Applied my background in Electrical Engineering to solve complex software engineering problems, improving system functionality and reliability.</li>
-      <li>Collaboration and Documentation: Collaborated with cross-functional teams, conducted detailed inspections, and maintained comprehensive documentation of project progress.</li>
+      <li><b>Software Development:</b>  Developed and implemented advanced monitoring technologies to enhance ground station capabilities for wideband communication signal surveillance and analysis.</li>
+      <li><b>Engineering Application:</b> Applied my background in Electrical Engineering to solve complex software engineering problems, improving system functionality and reliability.</li>
+      <li><b>Collaboration and Documentation:</b> Collaborated with cross-functional teams, conducted detailed inspections, and maintained comprehensive documentation of project progress.</li>
     </ul>
 
 - company: U.S. Air Force
@@ -141,10 +155,10 @@
   summary: |
     As a Tactical Aircraft Mechanic (Crew Chief) in the U.S. Air Force, I was responsible for maintaining and ensuring the readiness of advanced tactical aircraft. My duties included:
     <ul class="resume-item-list">
-      <li>Maintenance and Repair: Performed routine maintenance, troubleshooting, and repair of aircraft systems, including engines, hydraulics, avionics, and structural components.</li>
-      <li>Inspection and Supervision: Coordinated and supervised pre-flight and post-flight inspections, ensuring aircraft safety and operational efficiency.</li>
-      <li>Technical Support: Worked closely with pilots and other maintenance personnel, providing technical expertise and support for mission-critical operations.</li>
-      <li>Leadership: Organized and led crew operations to ensure the combat readiness of fighter jets, requiring a high level of precision and adherence to stringent safety protocols.</li>
+      <li><b>Maintenance and Repair:</b> Performed routine maintenance, troubleshooting, and repair of aircraft systems, including engines, hydraulics, avionics, and structural components.</li>
+      <li><b>Inspection and Supervision:</b> Coordinated and supervised pre-flight and post-flight inspections, ensuring aircraft safety and operational efficiency.</li>
+      <li><b>Technical Support:</b> Worked closely with pilots and other maintenance personnel, providing technical expertise and support for mission-critical operations.</li>
+      <li><b>Leadership:</b> Organized and led crew operations to ensure the combat readiness of fighter jets, requiring a high level of precision and adherence to stringent safety protocols.</li>
     </ul>
 
 - company: Lexmark Int'l
@@ -153,8 +167,8 @@
   summary: |
     As an Electrical Engineering Technician at Lexmark International, I provided critical support to multiple teams of Electrical Engineers in the design and development of advanced electronic systems. My responsibilities included:
     <ul class="resume-item-list">
-      <li>Component Assembly and Testing: Assembled, tested, and troubleshooted electronic components and systems to ensure optimal performance and reliability.</li>
-      <li>Collaboration: Worked closely with engineers to implement design modifications and improve system functionality.</li>
-      <li>Inspections and Documentation: Conducted detailed inspections and maintained comprehensive documentation of test results and project progress.</li>
-      <li>Process Streamlining: Streamlined the development process, contributing to the successful launch of several innovative products.</li>
+      <li><b>Component Assembly and Testing:</b> Assembled, tested, and troubleshooted electronic components and systems to ensure optimal performance and reliability.</li>
+      <li><b>Collaboration:</b> Worked closely with engineers to implement design modifications and improve system functionality.</li>
+      <li><b>Inspections and Documentation:</b> Conducted detailed inspections and maintained comprehensive documentation of test results and project progress.</li>
+      <li><b>Process Streamlining:</b> Streamlined the development process, contributing to the successful launch of several innovative products.</li>
     </ul>
