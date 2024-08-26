@@ -1,5 +1,5 @@
 # Site settings
-title: "Weverton C. F. Trindade"
+title: "Weverton Trindade"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
+resume_name:                    "Weverton C. F. Trindade"
 resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html
