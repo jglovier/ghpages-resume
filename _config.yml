@@ -17,14 +17,13 @@ resume_title:                   "Postdoctoral Researcher"
 resume_contact_email:           "wevertonf1993@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-# resume_contact_telephone:       "555-7334" #Erased
-# resume_contact_address:         "742 Evergreen Terrace, Springfield" #Erased
+resume_contact_telephone:       "555-7334" #Erased
+resume_contact_address:         "742 Evergreen Terrace, Springfield" #Erased
 
 resume_header_contact_info:     "wevertonf1993@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p style="text-align: justify;">
-  I’m a biologist with a deep enthusiasm for science, particularly in ecology and evolution. In recent years, I’ve dedicated my research to studying macroecological patterns, using ecological niche models to predict the distribution of thousands of species. I’m also actively involved in developing and improving R packages for statistical analyses in macroecology and community ecology. Additionally, I create science content for Meteoro Brasil, a YouTube channel with over 1.7 million subscribers.
+resume_header_intro: "<p> I’m a biologist with a deep enthusiasm for science, particularly in ecology and evolution. In recent years, I’ve dedicated my research to studying macroecological patterns, using ecological niche models to predict the distribution of thousands of species. I’m also actively involved in developing and improving R packages for statistical analyses in macroecology and community ecology. Additionally, I create science content for Meteoro Brasil, a YouTube channel with over 1.7 million subscribers.
 </p>"
 
 # use "yes" to display the email contact button,
