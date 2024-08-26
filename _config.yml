@@ -23,7 +23,8 @@ resume_contact_email:           "wevertonf1993@gmail.com"
 resume_header_contact_info:     "wevertonf1993@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hi 👋
+I’m a biologist with a deep enthusiasm for science, particularly in ecology and evolution. In recent years, I’ve dedicated my research to studying macroecological patterns, using ecological niche models to predict the distribution of thousands of species. I’m also actively involved in developing and improving R packages for statistical analyses in macroecology and community ecology. Additionally, I create science content for Meteoro Brasil, a YouTube channel with over 1.7 million subscribers.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
