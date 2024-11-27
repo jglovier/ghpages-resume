@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: B.Eng, software engineering
+  uni: The North Nation University
+  year: 2015 &mdash; 2019
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: excellent graduate
+  #summary: Deputy Director of the Management Committee of the Society
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+#- degree: High School Diploma
+#  uni: No.4 Middle School of Chifeng
+#  year: 2015
+#  #award: Most likely to succeed
+#  #summary: You can choose to have either a single or multiple awards
