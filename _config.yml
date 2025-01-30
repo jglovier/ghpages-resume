@@ -53,6 +53,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
   resume_medium_url:            "https://medium.com/@jglovier"
+  #resume_playstore_url:         "https://play.google.com/store/apps/dev?id="
 resume_print_social_links:      true
 
 # Design settings

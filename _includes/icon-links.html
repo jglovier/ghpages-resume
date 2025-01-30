@@ -11,7 +11,7 @@
   {% if site.resume_social_links.resume_twitter_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_twitter_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-twitter.html %}</a></li>
   {% endif %}
-  
+
   <!-- Medium link -->
   {% if site.resume_social_links.resume_medium_url %}
   <li class="icon-link-item">
@@ -42,6 +42,11 @@
   <!-- Website link -->
   {% if site.resume_social_links.resume_website_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_website_url }}" class="icon-link" itemprop="url">{% include icons/icon-website.html %}</a></li>
+  {% endif %}
+
+  <!-- Google Play link -->
+  {% if site.resume_social_links.resume_playstore_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_playstore_url }}" class="icon-link" itemprop="url">{% include icons/icon-playstore.html %}</a></li>
   {% endif %}
 
 </ul>
